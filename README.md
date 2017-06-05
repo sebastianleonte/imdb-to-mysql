@@ -18,4 +18,4 @@ It is a interactive script (CLI) that runs from anywhere!
 # Acknowledgements
 
   - Thanks to @sionide21 for his Ruby Script!
-  - **A very big thank you to the person who has helped me in the process of doing this and always had a good word for my and my work!**
+  - **A very big thank you to the person who has helped me in the process of doing this and always had a good word for me and my work!**
