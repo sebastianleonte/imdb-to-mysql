@@ -14,6 +14,9 @@ It is a interactive script (CLI) that runs from anywhere!
   - Permits the selection of how many threads can the app use to insert the rows into the table, by default the script takes the maximum threads detected.
   - Starts the process (it takes a long time)
 
+# Usage
+
+  **WIP
 
 # Acknowledgements
 
