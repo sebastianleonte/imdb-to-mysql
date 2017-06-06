@@ -16,7 +16,7 @@ It is a interactive script (CLI) that runs from anywhere!
 
 # Usage
 
-  **WIP
+  **WIP**
 
 # Acknowledgements
 
